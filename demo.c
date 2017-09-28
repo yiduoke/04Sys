@@ -10,6 +10,7 @@ int main(){
     printf("  Cat,Elephant,0: %d\n",strncmp("Cat","Elephant",0));
     printf("  Cat,Elephant,1: %d\n",strncmp("Cat","Elephant",1));
     printf("  Cat,Elephant,2: %d\n",strncmp("Cat","Elephant",2));
+    printf("  Cat,Elephant,3: %d\n",strncmp("Cat","Elephant",3));
     printf("  Cat,Cat,0: %d\n",strncmp("Cat","Cat",0));
     printf("  Cat,Cat,1: %d\n",strncmp("Cat","Cat",1));
     printf("  Cat,Cat,2: %d\n",strncmp("Cat","Cat",2));
